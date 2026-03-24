@@ -1,4 +1,4 @@
-[📄 下載完整履歷](顧元暉_履歷.pdf)
+[📄 下載完整履歷](./Resume_PetterKu.pdf)
 
 # Hi, I'm Petter Ku (顧元暉) 👋
 ### 跨領域開發者 | 13年廠務儀電經驗 x C# .NET / SAP ABAP 系統整合
