@@ -31,9 +31,13 @@
 
 ## 🏆 專業證照 (Certifications)
 * **IT Specialist: Software Development** (2024.10)
-* **IT Specialist: Databases**
+* **IT Specialist: Databases** (2024.10)
+* **IT Specialist: Python** (2025.08)
+* **IT Specialist: AI** (2025.08)
+* **勞動部職訓結訓**：程式開發 (C#、Python) 與 ERP 系統設計 
 * **ERP 軟體應用師：鼎新 Workflow ERP GP (製造模組)** | 中華企業資源規劃學會 (2024.10)
-* **勞動部職訓結訓**：程式開發 (C#、Python) 與 ERP 系統設計
+* **ERP 軟體應用師：鼎新 Workflow ERP GP (銷售模組)** | 中華企業資源規劃學會 (2024.07)
+* **ERP 軟體應用師：鼎新 Workflow ERP GP (財務模組)** | 中華企業資源規劃學會 (2024.08)
 
 ## 💼 核心工作經歷 (Experience)
 #### **阿特拉斯科普柯 (Atlas Copco) | 產品售後技術服務 Planner**
@@ -42,7 +46,7 @@
 * 維護 SAP ERP 派工系統，確保工作均正確分配。
 
 #### **台灣科幕 (Chemours) / 杜邦 (DuPont) | 儀電 PM Planner / 資訊專員**
-*2015.03 - 2024.03*
+*2010.07 - 2024.03*
 * **IT 支援**：負責機房設備、電話及網路系統維護與故障排除。
 * **維護計畫**：利用 SAP PM/MM 模組管理備品、採購及 BOM 資料。
 
