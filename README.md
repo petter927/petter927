@@ -59,6 +59,7 @@
 
 ## 💻 專案作品 (Portfolio)
 * **[HRMS-CSharp](https://github.com/petter927/HRMS-CSharp)**: 採用 **Cookie-based Authentication** 與 **Role-based** 權限管理之員工出勤系統。
+* **[SkyGate-Winform](https://github.com/petter927/SkyGate-Winform)**: SkyGate WinForm 是一套以 WinForms 實作的人資與出勤管理系統，涵蓋登入驗證、出勤打卡、請假/加班申請與審核、報表查詢、人事維護等流程。
 * **SAP ABAP 整合**: 利用 **Module Pool** 與 **BAPI** 實作互動式請購單管理工具。
 
 ---
