@@ -70,7 +70,7 @@ SAP-ABAP :
   * **[SAP-Ktype-PR-Create](https://github.com/petter927/SAP-KType-PRCreate)**: Dialog : K-type PR管理，創建PR、修改PR、取消PR。
 
   ALV :
-  * **[SAP-Ktype-PR-Create](https://github.com/petter927/SAP-KType-PRCreate)**: Dialog : K-type PR管理，創建PR、修改PR、取消PR。
+  * **[倉庫呆料查詢](https://github.com/petter927/SAP-SlowItem-OOALV)**: OO-ALV : 倉庫呆料查詢。
 
 
 ---
