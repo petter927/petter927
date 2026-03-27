@@ -60,7 +60,9 @@
 ## 💻 專案作品 (Portfolio)
 * **[HRMS-CSharp](https://github.com/petter927/HRMS-CSharp)**: 採用 **Cookie-based Authentication** 與 **Role-based** 權限管理之員工出勤系統。
 * **[SkyGate-Winform](https://github.com/petter927/SkyGate-Winform)**: 人資與出勤管理的WinForms系統，登入驗證、出勤打卡、請假/加班申請與審核、報表查詢、人事維護等流程。
-* **SAP ABAP 整合**: 利用 **Module Pool** 與 **BAPI** 實作互動式請購單管理工具。
+* **[SAP-Ktype-PR-Create](https://github.com/petter927/SAP-KType-PRCreate)**: Dialog : K-type PR管理，創建PR、修改PR、取消PR。
+* **[SAP-Ktype-PR-Create](https://github.com/petter927/SAP-KType-PRCreate)**: Dialog : K-type PR管理，創建PR、修改PR、取消PR。
+
 
 ---
 [📄 下載完整履歷 (PDF)](https://raw.githubusercontent.com/petter927/petter927/main/Resume_PetterKu.pdf)
