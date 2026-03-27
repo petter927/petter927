@@ -58,19 +58,22 @@
 ---
 
 ## 💻 專案作品 (Portfolio)
-C# :
-  ASP.NET CORE MVC :
-  * **[HRMS-CSharp](https://github.com/petter927/HRMS-CSharp)**: 採用 **Cookie-based Authentication** 與 **Role-based** 權限管理之員工出勤系統。
 
-  WinForm :
-  * **[SkyGate-Winform](https://github.com/petter927/SkyGate-Winform)**: 人資與出勤管理的WinForms系統，登入驗證、出勤打卡、請假/加班申請與審核、報表查詢、人事維護等流程。
+### 🔹 C# / .NET 開發
+#### **ASP.NET CORE MVC**
+* **[HRMS-CSharp](https://github.com/petter927/HRMS-CSharp)**: 採用 **Cookie-based Authentication** 與 **Role-based** 權限管理之員工出勤系統。
 
-SAP-ABAP : 
-  Dialog :
-  * **[SAP-Ktype-PR-Create](https://github.com/petter927/SAP-KType-PRCreate)**: Dialog : K-type PR管理，創建PR、修改PR、取消PR。
+#### **WinForm (Desktop)**
+* **[SkyGate-Winform](https://github.com/petter927/SkyGate-Winform)**: 人資與出勤管理的 WinForms 系統，涵蓋登入驗證、出勤打卡、請假/加班申請與審核等完整流程。
 
-  ALV :
-  * **[倉庫呆料查詢](https://github.com/petter927/SAP-SlowItem-OOALV)**: OO-ALV : 倉庫呆料查詢。
+---
+
+### 🔹 SAP-ABAP 開發
+#### **Dialog / Transaction**
+* **[SAP-Ktype-PR-Create](https://github.com/petter927/SAP-KType-PRCreate)**: K-type PR 管理系統，支援創建、修改與取消公關單據。
+
+#### **OO-ALV 報表**
+* **[倉庫呆料查詢](https://github.com/petter927/SAP-SlowItem-OOALV)**: 運用 Object-Oriented ALV 實作之倉庫呆料自動化查詢工具。
 
 
 ---
